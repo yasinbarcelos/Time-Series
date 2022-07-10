@@ -1,0 +1,43 @@
+,Min,Max,length,Min,Max,Mean,Var,Kurtosis,Skewness,PACF,ACF(1/e),ACF(0)
+BVSP,"Close    8371.0
+dtype: float64","Close    73517.0
+dtype: float64",4205,"Close    0.1
+dtype: float64","Close    0.9
+dtype: float64","Close    0.504507
+dtype: float64","Close    0.05666
+dtype: float64",[-1.37383748],[-0.27711432],2,825,1234
+IXIC,"Close    1114.109985
+dtype: float64","Close    5487.439941
+dtype: float64",4275,"Close    0.1
+dtype: float64","Close    0.9
+dtype: float64","Close    0.410386
+dtype: float64","Close    0.041431
+dtype: float64",[-0.47657577],[0.83884181],2,525,1092
+DJI,"Close    6547.049805
+dtype: float64","Close    19974.619141
+dtype: float64",4275,"Close    0.1
+dtype: float64","Close    0.9
+dtype: float64","Close    0.437715
+dtype: float64","Close    0.030752
+dtype: float64",[-0.45526334],[0.75414499],2,574,1014
+FCHI,"Close    2403.040039
+dtype: float64","Close    6922.330078
+dtype: float64",4340,"Close    0.1
+dtype: float64","Close    0.9
+dtype: float64","Close    0.433013
+dtype: float64","Close    0.02607
+dtype: float64",[-0.28442707],[0.56620201],2,262,416
+FTSE,"Close    3287.0
+dtype: float64","Close    7142.799805
+dtype: float64",4294,"Close    0.1
+dtype: float64","Close    0.9
+dtype: float64","Close    0.584895
+dtype: float64","Close    0.032889
+dtype: float64",[-0.76347594],[-0.47628299],2,345,582
+GDAXI,"Close    2202.959961
+dtype: float64","Close    12374.730469
+dtype: float64",4317,"Close    0.1
+dtype: float64","Close    0.9
+dtype: float64","Close    0.444374
+dtype: float64","Close    0.029884
+dtype: float64",[-0.47102677],[0.43601093],2,528,1035

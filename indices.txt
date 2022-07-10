@@ -1,0 +1,8 @@
+#IBOVESPA (^BVSP)
+#NASDAQ Composite (^IXIC)
+#Dow Jones Industrial Average (^DJI)
+#CAC 40 (^FCHI)
+#FTSE 100 (^FTSE) 
+#DAX PERFORMANCE-INDEX (^GDAXI)
+
+Indices = ["BVSP", "IXIC", "DJI", "FCHI", "FTSE", "GDAXI"]
