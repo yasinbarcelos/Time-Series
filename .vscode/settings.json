@@ -11,5 +11,6 @@
         "./tests",
         "-p",
         "*test.py"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
